@@ -14,15 +14,15 @@ The notebooks use a custom dataset created using 4 separate Kaggle datasets for 
 
 ## Model architectures
 
-<img width="768" height="576" alt="ViT" src="https://github.com/user-attachments/assets/46edc619-a5ff-4aab-9932-4eb8883a224f" />
+<img width="640" height="480" alt="ViT" src="https://github.com/user-attachments/assets/46edc619-a5ff-4aab-9932-4eb8883a224f" />
 
-<img width="768" height="576" alt="CNN_UNET" src="https://github.com/user-attachments/assets/7b3bf92a-d982-42f1-999f-d25a213a408b" />
+<img width="640" height="480" alt="CNN_UNET" src="https://github.com/user-attachments/assets/7b3bf92a-d982-42f1-999f-d25a213a408b" />
 
 ## Overall workflow flowcharts for each model architecture
 
-<img width="768" height="1024" alt="ViTpipeline" src="https://github.com/user-attachments/assets/fef48833-16f4-4579-baf0-ef77aaba7bb4" />
+<img width="576" height="768" alt="ViTpipeline" src="https://github.com/user-attachments/assets/fef48833-16f4-4579-baf0-ef77aaba7bb4" />
 
-<img width="768" height="1024" alt="CNN_UNETpipeline" src="https://github.com/user-attachments/assets/848abd96-202f-48a0-9834-a2da4a72b13d" />
+<img width="576" height="768" alt="CNN_UNETpipeline" src="https://github.com/user-attachments/assets/848abd96-202f-48a0-9834-a2da4a72b13d" />
 
 ## Repository Contents
 

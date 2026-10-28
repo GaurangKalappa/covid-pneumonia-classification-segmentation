@@ -24,11 +24,23 @@ The notebooks use a custom dataset created using 4 separate Kaggle datasets for 
 
 <img width="576" height="768" alt="CNN_UNETpipeline" src="https://github.com/user-attachments/assets/848abd96-202f-48a0-9834-a2da4a72b13d" />
 
+
 ## Repository Contents
 
 - `covid.ipynb` — ViT-based model training and evaluation.
 - `covid-no-vit.ipynb` — CNN-based model training and evaluation without ViT.
 - `InferenceServer.ipynb` — Gradio inference interface for classification and segmentation.
+
+## Results
+
+<table>
+  <tr>
+    <td><img width="250" alt="result" src="https://github.com/user-attachments/assets/3e85b8d2-a150-4f93-a3b1-04429a937775" /></td>
+    <td><img width="250" alt="result2" src="https://github.com/user-attachments/assets/9c4162eb-41b9-4076-a13e-6eff44c03cea" /></td>
+    <td><img width="250" alt="result6" src="https://github.com/user-attachments/assets/c4555d30-f0a2-4da2-9c16-2d76f0aaaa18" /></td>
+  </tr>
+</table>
+
 
 ## Running the Inference Interface
 
